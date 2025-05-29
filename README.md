@@ -38,9 +38,9 @@ This project is designed to help beginners understand how to:
 
 ├── script.js       # Functionality (JavaScript)
 
-├── logo/           # Folder for logo image (optional)
+├── logo/           # Folder for logo image 
 
-└── preview.png     # Screenshot of the app (optional)
+└── README.md
 
 
 ## 📚 Technologies Used
